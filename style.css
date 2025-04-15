@@ -1,0 +1,26 @@
+#navbar{
+    background-color: #7bbbb9;
+    padding: 10px;
+    text-align: center;
+    color: #02738c;
+ 
+
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+#icon{
+    width: 100px;
+    max-height: 100%;
+    margin-right: 10px;
+}
+
+#parte1{
+    height: 75px;
+    max-width:100%;
+}
+
+.cabecario{
+    display: flex;
+}
