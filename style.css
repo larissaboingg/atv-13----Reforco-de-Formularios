@@ -1,3 +1,17 @@
+body{
+    border: 30px;
+    margin: 0px;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+    border: 30px;
+    margin: 50px;
+    padding: 0;   
+}
+
 #navbar{
     background-color: #7bbbb9;
     padding: 10px;
@@ -22,5 +36,9 @@
 }
 
 .cabecario{
+    display: flex;
+}
+
+.flex {
     display: flex;
 }
