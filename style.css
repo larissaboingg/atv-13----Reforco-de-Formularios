@@ -42,3 +42,9 @@ main {
 .flex {
     display: flex;
 }
+#rodape{
+    padding: 10px;
+    background-color:#7bbbb9;
+    text-align: center;
+    color: #02738c;
+}
